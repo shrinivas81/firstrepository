@@ -9,5 +9,6 @@
       <class name="testng.TESTCASE003"/>
       <class name="testng.TESTCASE002"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
